@@ -22,11 +22,11 @@ async function chatearConModeloLocal() {
             messages: [
                 {
                     role: 'system',
-                    content: 'Eres un asistente útil y creativo.'
+                    content: 'Eres un analista de negocios experto. Tu trabajo es resumir texto en 3 bullet points clave.'
                 },
                 {
                     role: 'user',
-                    content: promptUsuario
+                    content: 'Genera un resumen de 3 bullet points del siguiente reporte: \n\n'
                 }
             ],
             // 👇 Cambiamos aquí el modelo
