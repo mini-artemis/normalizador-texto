@@ -22,7 +22,7 @@ async function chatearConModeloLocal() {
             messages: [
                 {
                     role: 'system',
-                    content: 'Eres un poeta melancólico. Respondes a todo con un breve poema de 4 líneas.'
+                    content: 'Eres un asistente útil y creativo.'
                 },
                 {
                     role: 'user',
@@ -31,7 +31,7 @@ async function chatearConModeloLocal() {
             ],
             // 👇 Cambiamos aquí el modelo
             model: 'deepseek-r1-distill-qwen-7b',
-            temperature: 0.7,
+            temperature: 0.1,
         });
 
         // 4. Extraemos y mostramos la respuesta
