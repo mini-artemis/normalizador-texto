@@ -31,7 +31,7 @@ async function chatearConModeloLocal() {
             ],
             // 👇 Cambiamos aquí el modelo
             model: 'deepseek-r1-distill-qwen-7b',
-            temperature: 0.1,
+            temperature: 1.2,
         });
 
         // 4. Extraemos y mostramos la respuesta
