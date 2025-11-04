@@ -1,8 +1,2 @@
-"El lanzamiento de 
-nuestro nuevo producto, el 'HydroBot', ha superado las expectativas iniciales en un 150% 
-durante el primer trimestre. Los principales impulsores del crecimiento fueron nuestra 
-campaña de marketing viral en redes sociales y la adopción positiva por parte de los 
-influencers tecnológicos. Sin embargo, el feedback de los clientes indica una debilidad en 
-la duración de la batería, lo que ha generado un 15% de devoluciones. El equipo de 
-ingeniería ya está trabajando en una revisión de hardware (v1.1) que se espera esté lista 
-para el próximo trimestre."
+"Escribe un párrafo de 50 palabras describiendo un mercado futurista en Marte. Enfócate en
+los olores y los sonidos."
